@@ -8,7 +8,7 @@ print(x-y)
 print(x*y)
 print(x/y)
 print(x%y)
-print(x**y)
+print(x**y) # x raised to the power y
 
 #comparison operators 
 
@@ -29,7 +29,6 @@ b= 3
 
 a= a+6
 a+=6
-
 
 a= a-1
 a-=1
